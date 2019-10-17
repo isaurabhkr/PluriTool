@@ -1,8 +1,4 @@
-#include <iostream>
-#include <fstream>
-#include <string>
-#include <algorithm>
-#include <vector>
+#include<bits/stdc++.h>
 
 using namespace std;
 char ch;
